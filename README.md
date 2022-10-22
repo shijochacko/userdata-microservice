@@ -4,12 +4,12 @@ How to run this application
 
 
 Step 1 : clone git directory url
-git clone https://github.com/shijochacko/UserData-CRUD.git
+git clone https://github.com/shijochacko/userdata-microservice.git
 
 
 Step 2 : move to directory using below command
 
-cd UserData-CRUD
+cd userdata-microservice
 
 step 3 : build application using gradle
 
